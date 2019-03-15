@@ -7,6 +7,14 @@ Python code to execute an AS-REP Roasting attack.
 
 USE ONLY AGAINST AUTHORIZED TARGETS
 
+### Usage :
+```
+USAGE:
+as-rep-roast.py -u <userName>@<domainName> -d <domainControlerAddr>
+
+Hashcat compatible output will be piped to screen and to hashcat.out file.
+```
+
 This code is based on the code from the below project...
 
 Python Kerberos Exploitation Kit
