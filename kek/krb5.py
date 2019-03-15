@@ -1,6 +1,9 @@
 #!/usr/bin/python
 
-# Author
+# Modifications (hacks) done to support AS-REP hash retrieval
+# Jason Martinsen
+
+# Original Author
 # ------
 # Sylvain Monne
 # Contact : sylvain dot monne at solucom dot fr
